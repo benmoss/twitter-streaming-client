@@ -8,7 +8,7 @@
 
     [twitter-api "0.7.6"]])
 
-(defproject twitter-streaming-client/twitter-streaming-client "0.3.2"
+(defproject twitter-streaming-client/twitter-streaming-client "0.3.3"
   :description "a clojure based client for Twitter's streaming API"
   :url "https://github.com/mccraigmccraig/twitter-streaming-client"
 
